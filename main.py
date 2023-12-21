@@ -38,7 +38,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
 import os
-os.environ['OPENAI_API_KEY']='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'
+os.environ['OPENAI_API_KEY']='ENTER Your Key'
 import sqlite3
 
 import streamlit as st
