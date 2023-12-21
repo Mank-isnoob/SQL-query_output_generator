@@ -1,6 +1,4 @@
 
-Here's the draft content for your GitHub README, incorporating the information you provided and focusing on a quick overview:
-
 # Ask Your SQL Database Effortlessly
 
 ## Description
